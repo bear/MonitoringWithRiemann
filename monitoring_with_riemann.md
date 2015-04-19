@@ -377,9 +377,9 @@ warning == password fails
 
 
 ###Useful links
+####https://github.com/bear/MonitoringWithRiemann
 ####https://riemann.io/quickstart.html
 ####https://rrees.me/2013/04/20/getting-started-with-riemann-stream-processing/
-####https://github.com/bear/MonitoringWithRiemann
 ####Riemann illustrations are from riemann.io
 Notes:
 
