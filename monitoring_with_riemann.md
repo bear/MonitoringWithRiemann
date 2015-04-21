@@ -376,6 +376,15 @@ warning == password fails
 
 
 
+###Combining it all
+####![img](images/diagram.png)
+
+
+
+---
+
+
+
 ###Useful links
 ####https://github.com/bear/MonitoringWithRiemann
 ####https://riemann.io/quickstart.html
