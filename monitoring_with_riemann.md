@@ -380,7 +380,8 @@ warning == password fails
 ####https://github.com/bear/MonitoringWithRiemann
 ####https://riemann.io/quickstart.html
 ####https://rrees.me/2013/04/20/getting-started-with-riemann-stream-processing/
-####Riemann illustrations are from riemann.io
+####https://github.com/jamtur01/riemann.config
+######Riemann illustrations are from riemann.io
 Notes:
 
 
