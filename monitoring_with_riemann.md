@@ -261,13 +261,13 @@ Notes:
 ```
 (def slack-credentials {
   :account "", :token ""})
-(def chatops
+(def chat-ops
   (slack slack-credentials {
     :username "opsbot"
     :channel "#chatops"
     :icon ":smile:"}
 ))
-(def tell-ops (rollup 5 3600 chatops))
+(def tell-ops (rollup 5 3600 chat-ops))
 ```
 Notes:
 
